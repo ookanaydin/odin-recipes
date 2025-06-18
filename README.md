@@ -1,0 +1,1 @@
+This is my first attempt on creating a simple project. Made a basic structure for a meal recipe site that includes descriptions, ingredients and steps.
